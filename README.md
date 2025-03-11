@@ -1,16 +1,39 @@
-## Hi there 👋
+![In Another World](https://i.imgur.com/dMIrbnU.jpeg)
 
-<!--
-**Clorkies/Clorkies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+# 💫 About Me  
+🔭 I’m currently working on a study focus browser extension  
+🌱 I’m currently re-learning HTML, CSS, and JavaScript with a touch of Tailwind  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+# 💻 Tech Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,javascript,idea,androidstudio,vscode,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,photoshop,illustrator,aftereffects,firebase)](https://skillicons.dev)
+
+<br>
+
+# 📊 GitHub Stats  
+
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=clorkies&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=clorkies&theme=catppuccin_mocha&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clorkies&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    </td>
+  </tr>
+</table>

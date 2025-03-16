@@ -13,7 +13,8 @@
 
 # 💻 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,javascript,idea,androidstudio,vscode,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,javascript)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,androidstudio,github,git)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=figma,notion,photoshop,illustrator,aftereffects,firebase)](https://skillicons.dev)
 
 <br>

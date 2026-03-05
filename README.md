@@ -5,7 +5,7 @@
 
 <div align="center">
   
-# 💫 Hi! I am Clorky!
+# 💫 Hello! I am Clorky!
 🔭 I’m currently working on a study focus browser extension  
 🌱 I’m currently re-learning HTML, CSS, and JavaScript with a touch of Tailwind!
 

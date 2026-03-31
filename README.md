@@ -1,13 +1,16 @@
 ![In Another World](https://i.imgur.com/dMIrbnU.jpeg)
 
 <div align="center">
-</div>
 
-<div align="center">
-  
-# 💫 Hello! I am Clorky!
-🔭 I’m currently working on a study focus browser extension  
-🌱 I’m currently re-learning HTML, CSS, and JavaScript with a touch of Tailwind!
+# 💫 Hello, I'm Clorky
+
+### Aspiring Full-Stack Software Developer | Experienced Graphic Designer | Lifelong Learner
+
+I build modern applications while continuously improving my craft in both software development and design.  
+
+<br>
+
+Currently focused on **C# / ASP.NET**, **React.js**, and full-stack project development.
 
 <br>
 
@@ -26,15 +29,25 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=clorkies&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=clorkies&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=clorkies&theme=catppuccin_mocha&hide_border=true"/>
+      <img src="https://streak-stats.demolab.com/?user=clorkies&theme=catppuccin_mocha&hide_border=true"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clorkies&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=clorkies&theme=catppuccin_mocha&no-bg=true&no-frame=true&margin-w=8"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=clorkies&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89dceb&area=true&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://komarev.com/ghpvc/?username=clorkies&color=89b4fa&style=flat&label=Profile+Views"/>
     </td>
   </tr>
 </table>

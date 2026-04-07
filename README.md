@@ -37,11 +37,6 @@ Currently focused on **C# / ASP.NET**, **React.js**, and full-stack project deve
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=clorkies&theme=catppuccin_mocha&no-bg=true&no-frame=true&margin-w=8"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=clorkies&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=89dceb&area=true&hide_border=true"/>
     </td>
   </tr>

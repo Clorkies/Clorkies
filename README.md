@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💫 Hello, I'm Clorky
+# 💫 Hello, I'm Clorky!
 
 ### Aspiring Full-Stack Software Developer | Experienced Graphic Designer | Lifelong Learner
 

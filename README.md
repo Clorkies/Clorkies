@@ -6,7 +6,7 @@
 
 ### Aspiring Full-Stack Software Developer | Experienced Graphic Designer | Lifelong Learner
 
-I build modern applications while continuously improving my craft in both software development and design.  
+I build modern applications while continuously improving my craft in both software development and design.
 
 <br>
 
@@ -14,15 +14,62 @@ Currently focused on **C# / ASP.NET**, **React.js**, and full-stack project deve
 
 <br>
 
-# 💻 Tech Stack  
+## Portfolios
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,javascript)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,androidstudio,github,git)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,photoshop,illustrator,aftereffects,firebase)](https://skillicons.dev)
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center">
+<a href="https://clorky.dev"><img src="https://i.imgur.com/UV5Wd98.png" width="70"></a>
+<br><sub>Developer Portfolio</sub>
+</td>
+<td align="center">
+<a href="https://design.clorky.dev"><img src="https://i.imgur.com/dt06GLb.png" width="70"></a>
+<br><sub>Designer Portfolio</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
-# 📊 GitHub Stats  
+## Tech Stack
+
+**Languages**
+<br>
+[![Languages](https://skillicons.dev/icons?i=cs,java,kotlin,javascript,html,css&perline=6)](https://skillicons.dev)
+
+<br>
+
+**Frameworks & Libraries**
+<br>
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,react&perline=6)](https://skillicons.dev)
+
+<br>
+
+**Databases & Backend Services**
+<br>
+[![Databases](https://skillicons.dev/icons?i=supabase,firebase&perline=6)](https://skillicons.dev)
+
+<br>
+
+**DevOps, CI/CD & Containers**
+<br>
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github&perline=6)](https://skillicons.dev)
+
+<br>
+
+**Deployment & Hosting**
+<br>
+[![Hosting](https://skillicons.dev/icons?i=vercel,render&perline=6)](https://skillicons.dev)
+
+<br>
+
+**Tools & IDEs**
+<br>
+[![Tools](https://skillicons.dev/icons?i=idea,vscode,androidstudio,figma,notion,photoshop,illustrator,aftereffects&perline=8)](https://skillicons.dev)
+
+<br>
+
+## GitHub Stats
 
 </div>
 

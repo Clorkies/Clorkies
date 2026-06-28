@@ -1,4 +1,4 @@
-![In Another World](https://i.imgur.com/dMIrbnU.jpeg)
+![Clorky Banner](https://i.imgur.com/HzdiKgf.jpeg)
 
 <div align="center">
 

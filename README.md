@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💫 Hello, I'm Clorky!
+# Hello, I'm Clorky!
 
 **Aspiring Full-Stack Software Developer&nbsp; ·&nbsp; Experienced Graphic Designer&nbsp; ·&nbsp; Lifelong Learner**
 
@@ -10,7 +10,7 @@ I build modern applications while continuously sharpening my craft in both softw
 
 <br>
 
-`🔭 Currently focused on` &nbsp;**C# / ASP.NET**&nbsp; · &nbsp;**React.js**&nbsp; · &nbsp;**Full-Stack Development**
+`Currently focused on` &nbsp;**C# / ASP.NET**&nbsp; · &nbsp;**React.js**&nbsp; · &nbsp;**Full-Stack Development**
 
 <br>
 
